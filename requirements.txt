@@ -1,0 +1,14 @@
+flask~=2.3.2
+flask-smorest
+python-dotenv
+sqlalchemy~=2.0.19
+flask-sqlalchemy
+pip~=23.2.1
+wheel~=0.38.4
+Jinja2~=3.1.2
+setuptools~=65.5.1
+packaging~=23.1
+marshmallow~=3.20.1
+flask-jwt-extended
+passlib
+Flask-Migrate
